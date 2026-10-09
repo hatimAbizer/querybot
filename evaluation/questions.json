@@ -1,0 +1,9 @@
+# QueryBot sample evaluation questions
+[
+  {
+    "id": "q1",
+    "question": "What is the main topic of the indexed documents?",
+    "expected_source_contains": null,
+    "notes": "General orientation question"
+  }
+]
